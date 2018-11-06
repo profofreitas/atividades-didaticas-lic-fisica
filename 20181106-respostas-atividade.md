@@ -5,4 +5,15 @@ subjacentes. O conhecimento dessas propostas pode ajudar os professores na ident
 formulação de sua prática. Classifique esses dois grupos de tendências pedagógicas tão antagônicas apontando a cada 
 grupo suas características.**
 
-*RESP: *
+*RESP:
+
+**TENDÊNCIA LIBERAL**
+
+Nasceu do capitalismo
+Tem como fundamento a preparação do indivíduo para a sociedade, porém, como uma visão restrita sobre as diferenças de classe.
+o aluno deve ser preparado para papéis sociais de acordo com as suas aptidões, aprendendo a viver em harmonia com as normas desse tipo de sociedade, tendo uma cultura individual.
+
+TENDÊNCIA PROGRESSISTA*
+
+# REFERÊNCIAS
+* http://wwwtendenciaspedagogicas.blogspot.com/2011/06/as-tendencias-pedagogicas-liberais.html
