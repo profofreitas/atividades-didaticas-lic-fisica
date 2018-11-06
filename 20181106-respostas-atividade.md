@@ -26,7 +26,7 @@ TENDÊNCIA PROGRESSISTA*
 
 **03. Explique  como  ocorre  a transformação proporcionada	pela educação	segundo a Tendência Liberal Tradicional.**
 
-
+*RESP: *
 
 # REFERÊNCIAS
 * http://wwwtendenciaspedagogicas.blogspot.com/2011/06/as-tendencias-pedagogicas-liberais.html
