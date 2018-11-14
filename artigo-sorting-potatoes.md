@@ -11,4 +11,7 @@ uma mensagem isso conta.
 
 ### Formato de Palestra
 
-James Conant, químico e presidente anterior da Universidade de Harvard introduziu sua versão de palestra do método de caso nos anos 1940.
+James Conant, químico e presidente anterior da Universidade de Harvard introduziu sua versão de palestra do método de caso nos anos 1940. Seu curso [...] para 
+não cientistas foi construído em torno de longas histórias de casos elaboradas que ilustravam como grandes descobertas foram feitas. Descrito em seu livro, The 
+Growth of the Experimental Sciences, ele queria que os alunos vissem a ciência no cenário histórico e humano do tempo. Poucos professores seguiram a liderança 
+de Conant.
